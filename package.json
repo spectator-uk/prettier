@@ -1,0 +1,20 @@
+{
+  "name": "@spectator-uk/prettier",
+  "version": "1.0.0",
+  "description": "The Spectator's Prettier config.",
+  "main": "index.json",
+  "author": "The Spectator <digital@spectator.co.uk>",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectator-uk/prettier"
+  },
+  "homepage": "https://github.com/spectator-uk/prettier",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
