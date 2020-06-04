@@ -1,6 +1,6 @@
 {
   "name": "@spectator-uk/prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Spectator's Prettier config.",
   "author": "The Spectator <digital@spectator.co.uk>",
   "license": "MIT",
