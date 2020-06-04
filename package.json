@@ -16,6 +16,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "main": "index.json",
-  "prettier": "@spectator-uk/prettier"
+  "main": "index.json"
 }
