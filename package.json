@@ -1,5 +1,5 @@
 {
-  "name": "@spectator-uk/prettier",
+  "name": "spectator-uk-prettier",
   "version": "1.0.4",
   "description": "The Spectator's Prettier config.",
   "author": "The Spectator <digital@spectator.co.uk>",
