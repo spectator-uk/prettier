@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/spectator-uk/prettier",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "main": "index.json",
   "bugs": {
